@@ -46,6 +46,6 @@ _Telegram administrator bot._
 
 ## My contacts
 - 📧 Email: vitseally@example.com
-- ☎️ Telegram: https://t.me/vitseally
+- ☎️ Telegram: https://t.me/vinsquare
 
 
