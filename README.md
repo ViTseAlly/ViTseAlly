@@ -21,22 +21,11 @@
   </a>
 </p>
 
-<h2 align="center">Projects</h2>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ViTseAlly&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <br/>
-
-### >>> <a href="https://github.com/ViTseAlly/Notebook">Notebook</a>
-
-_Online notebook on node.js and react.js Test project. There will be new updates_
-
-
-### >>> <a href="https://github.com/ViTseAlly/ChatMaster">ChatMaster (tgBot)</a>
-
-_Telegram administrator bot._
 
 ## Wakatime
 
