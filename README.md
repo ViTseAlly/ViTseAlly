@@ -25,13 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ViTseAlly&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<br/>
-
-## Wakatime
-
-<p align="center">
-  <img src="https://wakatime.com/share/@5d3893b1-73fb-4e14-b4ce-657f64d01fd9/27ce9098-53c2-4850-84f8-da9f93aea7ec.svg" alt="Wakatime Stats" />
-</p>
 
 ## My contacts
 - 📧 Email: vitseally@example.com
