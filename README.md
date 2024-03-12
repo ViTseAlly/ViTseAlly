@@ -4,9 +4,7 @@
 
 <h3 align="center">Computer science student, beginner Fullstack web developer from Ukraine 🇺🇦</h3>
 <br/>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViTseAlly&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
+
 
 <h2 align="center">About me</h2>
 <p align="center">
